@@ -1,0 +1,28 @@
+#main-navbar{
+    background-color: blue;
+	overflow: hidden;
+    display: block;
+}
+
+#navbar-container{
+    position: relative;
+    width: 100%;
+	display: block;
+	float: left;
+
+}
+
+#navbar-container ul {
+    margin: 0;
+    padding: 0;
+    left: 50%;
+    float: left;
+    position: relative;
+}
+
+#navbar-container li{
+	    float: left;
+    position: relative;
+	padding: 10px 20px;
+    right: 50%;
+}
