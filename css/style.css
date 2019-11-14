@@ -21,8 +21,25 @@
 }
 
 #navbar-container li{
-	    float: left;
+	float: left;
     position: relative;
 	padding: 10px 20px;
     right: 50%;
+}
+
+
+a{
+	color: #fff;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+#onpage{
+    text-decoration: underline overline;
+    background-color: #000;
 }
